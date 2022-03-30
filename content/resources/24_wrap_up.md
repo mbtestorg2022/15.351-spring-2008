@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on managing innovation and entrepreneurship.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/f6954dc6bab2a58178343456f17a308f_24_wrap_up.pdf
 file_type: application/pdf
+parent_uid: f5fef642-63f9-f6a5-cf8a-a014413ab923
 resourcetype: Document
 title: Wrap Up
 uid: f6954dc6-bab2-a581-7834-3456f17a308f
